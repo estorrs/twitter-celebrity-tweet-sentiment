@@ -1,6 +1,3 @@
 jupyter==1.0.0
 requests==2.9.1
 requests-oauthlib==0.8.0
-
-# get kinnara from github
-git+https://github.com/estorrs/kinnara.git
