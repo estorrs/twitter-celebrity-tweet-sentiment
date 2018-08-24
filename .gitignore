@@ -3,12 +3,15 @@
 .ipynb_checkpoints/*
 .env
 *.csv
+lib64
 
 bin/*
 etc/*
 include/*
 lib/*
 share/*
+
+environment.yml
 
 pip-selfcheck.json
 pyvenv.cfg
